@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.Dierenarts.WPF", "Pra.Dierenarts.WPF\Pra.Dierenarts.WPF.csproj", "{851F221F-B91E-4D20-A391-A1FE329A223E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.Dierenarts.CORE", "Pra.Dierenarts.CORE\Pra.Dierenarts.CORE.csproj", "{306C4407-A0ED-4613-B56E-CBA0D6DD911C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851F221F-B91E-4D20-A391-A1FE329A223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851F221F-B91E-4D20-A391-A1FE329A223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851F221F-B91E-4D20-A391-A1FE329A223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851F221F-B91E-4D20-A391-A1FE329A223E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306C4407-A0ED-4613-B56E-CBA0D6DD911C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306C4407-A0ED-4613-B56E-CBA0D6DD911C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306C4407-A0ED-4613-B56E-CBA0D6DD911C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306C4407-A0ED-4613-B56E-CBA0D6DD911C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F1D368-639E-41E6-8FAD-46FAB037AEAF}
+	EndGlobalSection
+EndGlobal
